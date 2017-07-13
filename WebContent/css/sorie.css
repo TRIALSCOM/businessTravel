@@ -1,0 +1,147 @@
+.TSHeader{
+  background-color:#34CCCC;
+  position:absolute;
+  padding:0.5vw;
+  border: 0;
+  left:0.5%;
+  width: 99%;
+  height: 10%;
+  top: 0px;
+  border-radius:0px 0px 3px 3px;
+}
+
+.TSHeaderTitle{
+  font-family: sans-serif;
+  font-weight:bold;
+  font-size:32px;
+  font-size:2.5vw;
+  padding-left:0.5vw;
+  padding-right:0.5vw;
+  padding-top:0.3vw;
+  position: relative;
+  left:1%;
+  top: 0%;
+  color:#ffffff;
+}
+#headerRightButton1{
+  position: relative;
+  float: right;
+  top:1.5vw;
+  right: 0.5vw;
+}
+
+#headerRightButton2{
+  position: relative;
+  float: right;
+  top:1.5vw;
+  right: 0.7vw;
+}
+
+.TSPrimaryButton{
+  outline:none;
+  background-color: #34CCCC;
+  border: none;
+  padding-right:0.5vw;
+  padding-left:0.5vw;
+  font-family: "Open Sans", Arial, sans-serif;
+  font-weight:500;
+  font-size:20px;
+  font-size:1.3vw;
+
+  color:#ffffff;
+  border-radius:3px 3px 3px 3px
+}
+
+.TSPrimaryButton:hover{
+  background-color: #48D1D1;
+}
+.TSPrimaryButton:focus{
+  border: none;
+}
+
+.TSNavigationContainer{
+  padding:0.0vw;
+/*  padding-top:0.5vw;*/
+  position:relative;
+  font-family: "Open Sans", Arial, sans-serif;
+  font-weight:500;
+  font-size:20px;
+  font-size:1.3vw;
+  top:0%;
+  height: 80%;
+  left:0%;
+}
+
+.TSBodyContainer{
+  padding:0.0vw;
+  position:absolute;
+  left:0.5%;
+  top:11%;
+  height: 89%;
+  width: 99%;
+}
+.TSMenuItem{
+  /*background-color:#34CCCC;*/
+
+  color: #000000;
+  outline:none;
+  border: none;
+  font-family: "Open Sans", Arial, sans-serif;
+  font-weight:800;
+  font-size:20px;
+  font-size:1.0vw;
+  text-align:center;
+  position: relative;
+  left:0%;
+  top: 5%;
+  border-radius:0px 0px 0px 0px;
+}
+
+.TSIframe{
+  border: 0;
+  padding: 0;
+  margin: 0;
+  position:relative;
+  left: 0%;
+  top: 11;
+  height: 100%;
+}
+.TSContainerPosition{
+  position: absolute;
+  left : 7%;
+  top: -5%;
+}
+.TSBoxPosition{
+  position:relative;
+  left:-7.5%;
+}
+.TSBoxTag{
+  padding-left: 0.5vw;
+  padding-right: 0.5vw;
+  color: #000000;
+  font-family: "Open Sans", Arial, sans-serif;
+  font-weight:500;
+  font-size:20px;
+  font-size:1.5vw;
+  position: relative;
+  height: 30px;
+  line-height: 30px;
+  display:table;
+  text-align: center;
+  overflow:hidden;
+  padding-left: 0.5vw;
+  left: 0.5%;
+   
+}
+.TSBoxTagBlock{
+  position: relative;
+  
+}
+.TSBox{
+  padding-top: 0.5vw;
+  padding-left: 1.0vw; 
+  padding-right: 0.5vw;
+  width: 107%
+  position: relative;
+}
+# sourceMappingURL=style.css.map;
